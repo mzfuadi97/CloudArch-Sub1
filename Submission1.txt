@@ -1,0 +1,4 @@
+Project ID : dicoding-997
+
+GKE External Point : http://35.240.233.232/
+
